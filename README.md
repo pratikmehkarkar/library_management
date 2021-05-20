@@ -13,3 +13,15 @@ Design Patterns Used:
 2. Singleton Design Pattern
 3. Facade Design Pattern
 4. Template Design Pattern
+
+Main UML:
+
+<img src="https://github.com/pratikmehkarkar/library_management/blob/main/ss_3.png" data-canonical-src="https://github.com/pratikmehkarkar/library_management/blob/main/ss_3.png" width="700" height="400" />
+
+System UI:
+
+<img src="https://github.com/pratikmehkarkar/library_management/blob/main/ss_1.png" data-canonical-src="https://github.com/pratikmehkarkar/library_management/blob/main/ss_1.png" width="700" height="400" />
+
+<img src="https://github.com/pratikmehkarkar/library_management/blob/main/ss_2.png" data-canonical-src="https://github.com/pratikmehkarkar/library_management/blob/main/ss_2.png" width="700" height="400" />
+
+
